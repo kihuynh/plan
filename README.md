@@ -1,9 +1,8 @@
-## Post-Epicodus Plan
+# Post-Epicodus Plan
+
+
+## Goals
 May 11th, 2018
-
-#### Kimberly Huynh
-
-## Goals (Organized by priority)
 
 * __Take a breather (relax for a couple days, maybe plan a much needed trip)__
 * __Work on refining portfolio pieces(3-5 pieces)__
